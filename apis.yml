@@ -1,18 +1,44 @@
 aid: lego
-url: https://raw.githubusercontent.com/api-evangelist/lego/refs/heads/main/apis.yml
 name: Lego
-type: Index
+description: >-
+  The LEGO Group is a Danish toy company and the world's largest manufacturer
+  of interlocking plastic building bricks. The company extends its brand across
+  video games, theme parks, movies, educational products, and licensed sets for
+  children and adults. LEGO does not currently publish a public developer API
+  or developer portal; consumer-facing systems and partner integrations are
+  closed. A public GitHub organization hosts internal engineering tooling and
+  open-source contributions.
+kind: company
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Toys
-  - Games
   - Children
+  - Education
   - Entertainment
-description: 'A Danish toy company and the world''s largest manufacturer of interlocking plastic building bricks. Extends its brand across video games, theme parks, movies, and educational products for children and adults.'
+  - Games
+  - Toys
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/lego/refs/heads/main/apis.yml
 created: '2026-05-05'
-modified: '2026-05-05'
+modified: '2026-05-16'
 specificationVersion: '0.19'
 apis: []
 common:
   - type: Website
-    url: https://www.lego.com
+    url: https://www.lego.com/
+  - type: AboutUs
+    url: https://www.lego.com/en-us/aboutus
+  - type: Education
+    url: https://education.lego.com/
+  - type: Ideas
+    url: https://ideas.lego.com/
+  - type: Careers
+    url: https://www.lego.com/en-us/careers
+  - type: Sustainability
+    url: https://www.lego.com/en-us/sustainability
+  - type: GitHubOrganization
+    url: https://github.com/LEGO
+  - type: News
+    url: https://www.lego.com/en-us/aboutus/news
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
