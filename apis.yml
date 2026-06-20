@@ -9,7 +9,7 @@ description: >-
   closed. A public GitHub organization hosts internal engineering tooling and
   open-source contributions.
 kind: company
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Children
   - Education
