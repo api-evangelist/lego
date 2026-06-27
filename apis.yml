@@ -41,7 +41,7 @@ common:
     url: https://github.com/LEGO
   - type: News
     url: https://www.lego.com/en-us/aboutus/news
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://www.lego.com/llms.txt
 maintainers:
   - FN: Kin Lane
