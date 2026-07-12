@@ -23,6 +23,10 @@ modified: '2026-05-16'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/lego-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/lego-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/lego-group
   - type: Website
